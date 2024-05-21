@@ -1,1 +1,1 @@
-# University_Admission_Prediction_Analysis
+# University Admission Prediction Analysis
